@@ -26,3 +26,19 @@ Security will be a big reason for customers to consider GitHub in the enterprise
 
 ## 4 - I have can use GitHub Actions to deploy to Azure
 
+1. Familiarize yourself with GitHub Actions: https://github.com/features/actions
+1. Search the [GitHub Marketplace](https://github.com/marketplace?type=actions&query=Azure) for Actions tagged with GitHub
+1. Review the GitHub Actions for Azure repo: https://github.com/azure/actions
+1. Review the GitHub Actions for Azure samples:  https://github.com/Azure/actions-workflow-samples
+1. Run through the preview hands-on lab: https://github.com/microsoft/azuredevopslabs/tree/githubactions/labs/vstsextend/githubactions
+1. Reverse engineer a GitHub Actions Challenge (in progress, including Secrets, Infra as Code, ...): https://github.com/dmckinstry/ContosoAir/
+
+## 5 - I can integrate GitHub with other DevOps tools
+
+1. Perform the Azure Board/GitHub integration lab: https://azuredevopslabs.com/labs/vstsextend/github-azureboards/
+1. Perform the GitHub/Azure Pipelines integration lab: https://azuredevopslabs.com/labs/vstsextend/github-azurepipelines/
+1. Exercise the VS Code integration: https://azuredevopslabs.com/labs/azuredevops/githubpullrequests/
+1. Review the GitHub Marketplace for other integration opportunities:  https://github.com/marketplace
+
+
+
