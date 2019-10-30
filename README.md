@@ -20,9 +20,10 @@ https://lab.github.com - you can figure the rest out pretty easily.
 Security will be a big reason for customers to consider GitHub in the enterprise.
 
 1. Fork microsoft/ContosoAir which is a demo repo with a few vulnerabilities
-   1. Enable **Security Alerts** in your repo settings
-   1. Enable **Automated security fixes**
-   1. Check back later to see recommended fixes and PRs. Review the PRs and security updates that Dependabot recommends.  You can delete the repo when you're done with this step or save it to share with customers!
+1. Enable **Security Alerts** in your repo settings
+1. Enable **Automated security fixes**
+1. Review and accept and recommended fixes / PRs. 
+1. You can delete the repo when you're done; you can replay this demo easily with customers.
 
 ## 4 - I have can use GitHub Actions to deploy to Azure
 
@@ -40,5 +41,10 @@ Security will be a big reason for customers to consider GitHub in the enterprise
 1. Exercise the VS Code integration: https://azuredevopslabs.com/labs/azuredevops/githubpullrequests/
 1. Review the GitHub Marketplace for other integration opportunities:  https://github.com/marketplace
 
+## 6 - Extra credit :)
 
+I'm working on a challenge for a partner Challenge. Feel free to review and contribute to the challenge repo and the 'solution' repo.
+
+1. Challenge repo (will eventually contain packaged source): https://github.com/dmckinstry/CY2019Q4-DevOpsChallenge
+1. Challenge solution reference:  https://github.com/dmckinstry/ContosoAir
 
