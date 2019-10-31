@@ -43,8 +43,8 @@ Security will be a big reason for customers to consider GitHub in the enterprise
 
 ## 6 - Extra credit :)
 
-I'm working on a challenge for a partner Challenge. Feel free to review and contribute to the challenge repo and the 'solution' repo.
+I'm working on a challenge for a partner Challenge. Feel free to review and contribute to the challenge repo and the 'solution' repo.  We are also planning on publishing a lab and the draft is available for your review and feedback:
 
 1. Challenge repo (will eventually contain packaged source): https://github.com/dmckinstry/CY2019Q4-DevOpsChallenge
 1. Challenge solution reference:  https://github.com/dmckinstry/ContosoAir
-
+1. Hands-on-lab: https://github.com/microsoft/azuredevopslabs/tree/githubactions/labs/vstsextend/githubactions
